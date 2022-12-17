@@ -17,7 +17,7 @@
     "theme"
 
   ],
-  "icon": "s2.png",
+  "icon": "/assets/s2.png",
   "repository": {
     "url": "https://imgur.com/XD3tFix",
     "type": "imgur"
