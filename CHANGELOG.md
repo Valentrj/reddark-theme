@@ -6,4 +6,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
-- Initial release
+- Initial release 
+
+- Changes to be committed:
+- renamed:    s2.png -> Assets/s2.png
+- modified:   package.json
