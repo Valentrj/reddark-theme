@@ -1,0 +1,39 @@
+{
+  "name": "reddark",
+  "displayName": "reddark",
+  "description": "Theme VsCode",
+  "version": "0.0.3",
+  "publisher": "valentrj",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "red",
+    "darkred",
+    "dark",
+    "theme"
+
+  ],
+  "icon": "s2.png",
+  "repository": {
+    "url": "https://imgur.com/XD3tFix",
+    "type": "imgur"
+  
+  },
+  "galleryBanner": {
+    "color": "#485FA2",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "reddark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/reddark-color-theme.json"
+      }
+    ]
+  }
+}
